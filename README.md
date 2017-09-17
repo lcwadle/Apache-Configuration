@@ -9,17 +9,28 @@ SSH Port: 2200
 
 ## Installed Software
 WSGI
+
 PIP
+
 Flask
+
 Postgres
+
 Apache
+
 SQLAlchemy
+
 
 ## Configuration Changes
 Added users for grader and postgres
+
 Altered WSGI config file for webapp
+
 Altered UFW for firewall settings
+
 Altered SSHD for default SSH port
+
 Altered Postgres config to allow for local connections
+
 
 
